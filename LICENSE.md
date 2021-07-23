@@ -1,2 +1,2 @@
 #LICENSE
-##GitHub
+##GitHub 2.0
